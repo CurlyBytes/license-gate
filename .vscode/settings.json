@@ -40,5 +40,6 @@
     "titleBar.activeForeground": "#ffffff",
     "statusBar.background": "#475569",
     "statusBar.foreground": "#ffffff"
-  }
+  },
+  "WhiteSource Advise.Diff.BaseBranch": "main"
 }
